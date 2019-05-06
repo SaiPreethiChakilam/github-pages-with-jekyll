@@ -2,10 +2,10 @@ title: "nola"
 author: agile
 email: agile@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Beautiful weather out there, need to have someone to spend the time. It's gonna be great. I wish, I had. I miss him.
+  Beautiful weather out there, need to have someone to spend the time. It's gonna be great.
 
-# social links
 twitter_username: your-twitter-handle
 github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-hacker
+
